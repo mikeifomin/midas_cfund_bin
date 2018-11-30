@@ -1,0 +1,1 @@
+https://download.crowdfundcoin.io/latest-mninstall-linux.sh
